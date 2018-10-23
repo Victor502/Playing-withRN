@@ -47,7 +47,6 @@ export default class ThirdMap extends React.Component {
                     coordinate={c}
                     description={c.description}
                     pinColor={"green"}
-                    image={c.image}
                      />
                     
         })
